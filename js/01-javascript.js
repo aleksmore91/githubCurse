@@ -166,4 +166,5 @@ console.log(nombreUsuario);
 // console.log(persona1);
 
 
- 
+let nombre = "alejandro"
+console.log(nombre);
