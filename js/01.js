@@ -66,3 +66,7 @@ console.log(Object.isSealed(producto)); // se utiliza para saber si esta sellado
 console.log(producto);
 
 
+
+let nombre = "ALejandro"
+
+
